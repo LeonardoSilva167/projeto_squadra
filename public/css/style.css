@@ -1,0 +1,67 @@
+body {
+    padding: 20px;
+}
+
+.card {
+    padding: 20px;
+}
+
+.pagination {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-pagination {
+    margin: 0 auto;
+    float: none;
+}
+
+.float-left {
+    float: left !important;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.btn-no-board {
+    border: none;
+}
+
+.btn {
+    border: none!important;
+}
+
+.btn:hover {
+    border: none!important;
+}
+
+.btn:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+#msgBody {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-login {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+.containerLimit {
+    max-height: 500px;
+    overflow-y: scroll;
+}
